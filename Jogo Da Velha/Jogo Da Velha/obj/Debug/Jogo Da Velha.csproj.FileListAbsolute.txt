@@ -1,0 +1,7 @@
+C:\Users\USUARIO\Desktop\C#\4\Trabalho Final jv\Jogo Da Velha\Jogo Da Velha\bin\Debug\Jogo Da Velha.exe.config
+C:\Users\USUARIO\Desktop\C#\4\Trabalho Final jv\Jogo Da Velha\Jogo Da Velha\bin\Debug\Jogo Da Velha.exe
+C:\Users\USUARIO\Desktop\C#\4\Trabalho Final jv\Jogo Da Velha\Jogo Da Velha\bin\Debug\Jogo Da Velha.pdb
+C:\Users\USUARIO\Desktop\C#\4\Trabalho Final jv\Jogo Da Velha\Jogo Da Velha\obj\Debug\Jogo Da Velha.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\C#\4\Trabalho Final jv\Jogo Da Velha\Jogo Da Velha\obj\Debug\Jogo Da Velha.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\C#\4\Trabalho Final jv\Jogo Da Velha\Jogo Da Velha\obj\Debug\Jogo Da Velha.exe
+C:\Users\USUARIO\Desktop\C#\4\Trabalho Final jv\Jogo Da Velha\Jogo Da Velha\obj\Debug\Jogo Da Velha.pdb
